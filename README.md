@@ -9,3 +9,10 @@ Retail price optimization involves **setting prices to maximize profits** by ana
 valuable approach for retailers. Instead of using general markdowns, predictive models can help determine the best price for each product or service. Machine Learning models continuously learn from data, detect trends, and adapt to changing market conditions.
 
 Machine Learning models can handle large product catalogs, make more accurate pricing decisions, and anticipate market trends early, giving retailers a competitive edge.
+
+
+## Tasks
+* Exploratory data analysis
+* Data visualization
+* Demand forecasting
+* Price optimization
